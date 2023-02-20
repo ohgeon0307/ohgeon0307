@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=linchpin oh&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
 
@@ -35,7 +35,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ogeon135&color=dark)](https://velog.io/@ogeon135)
 </div>
 <!--
 **ohgeon0307/ohgeon0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
